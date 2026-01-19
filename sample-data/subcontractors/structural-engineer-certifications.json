@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "certificateNumber": "SEC-SUB-001-2024",
+    "projectId": 4,
+    "engineerName": "Christopher Zulu, PEng",
+    "engineerLicenseNumber": "EIZ-2024-3344",
+    "inspectionDate": "2024-09-18T00:00:00",
+    "certificationDate": "2024-09-20T00:00:00",
+    "structuralIntegrity": "Excellent",
+    "loadBearingCapacity": "Verified",
+    "materialsCompliance": true,
+    "recommendations": "Timber frame construction meets all structural requirements. Quality workmanship observed.",
+    "isApproved": true
+  },
+  {
+    "id": 2,
+    "certificateNumber": "SEC-SUB-002-2024",
+    "projectId": 1,
+    "engineerName": "Margaret Sakala, PEng",
+    "engineerLicenseNumber": "EIZ-2024-4455",
+    "inspectionDate": "2024-12-10T00:00:00",
+    "certificationDate": "2024-12-12T00:00:00",
+    "structuralIntegrity": "Satisfactory",
+    "loadBearingCapacity": "Verified",
+    "materialsCompliance": true,
+    "recommendations": "Light pole foundations and cable trenching meet structural specifications.",
+    "isApproved": true
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "resourceType": "Material",
+    "description": "Asphalt and bitumen - 500,000 metric tons",
+    "quantity": 500000,
+    "requiredDate": "2025-02-01T00:00:00",
+    "status": "Ordered",
+    "progress": 25,
+    "projectName": "Lusaka-Ndola Toll Road PPP",
+    "supplier": "Sino Hydro / Local suppliers",
+    "estimatedCost": 75000000
+  },
+  {
+    "resourceType": "Equipment",
+    "description": "Heavy earthmoving equipment - Excavators, graders, rollers",
+    "quantity": 85,
+    "requiredDate": "2024-07-01T00:00:00",
+    "status": "Mobilized",
+    "progress": 100,
+    "projectName": "Lusaka-Ndola Toll Road PPP",
+    "supplier": "Caterpillar / Komatsu rental fleet",
+    "estimatedCost": 45000000
+  },
+  {
+    "resourceType": "Personnel",
+    "description": "Engineering and construction staff",
+    "quantity": 1200,
+    "requiredDate": "2024-07-15T00:00:00",
+    "status": "Mobilized",
+    "progress": 100,
+    "projectName": "Lusaka-Ndola Toll Road PPP",
+    "supplier": "Consortium HR / Local recruitment",
+    "estimatedCost": 8500000
+  },
+  {
+    "resourceType": "Equipment",
+    "description": "Toll collection systems and gantries",
+    "quantity": 12,
+    "requiredDate": "2027-12-01T00:00:00",
+    "status": "Procurement",
+    "progress": 15,
+    "projectName": "Lusaka-Ndola Toll Road PPP",
+    "supplier": "Kapsch TrafficCom",
+    "estimatedCost": 28000000
+  },
+  {
+    "resourceType": "Material",
+    "description": "Steel reinforcement bars - 45,000 tons",
+    "quantity": 45000,
+    "requiredDate": "2024-10-01T00:00:00",
+    "status": "Delivered",
+    "progress": 100,
+    "projectName": "Levy Mwanawasa University Teaching Hospital Expansion",
+    "supplier": "ArcelorMittal South Africa",
+    "estimatedCost": 32000000
+  },
+  {
+    "resourceType": "Equipment",
+    "description": "Medical equipment package (MRI, CT scanners, surgical equipment)",
+    "quantity": 1,
+    "requiredDate": "2026-09-01T00:00:00",
+    "status": "Ordered",
+    "progress": 40,
+    "projectName": "Levy Mwanawasa University Teaching Hospital Expansion",
+    "supplier": "Siemens Healthineers",
+    "estimatedCost": 85000000
+  },
+  {
+    "resourceType": "Personnel",
+    "description": "Medical facility construction specialists",
+    "quantity": 450,
+    "requiredDate": "2024-08-15T00:00:00",
+    "status": "Mobilized",
+    "progress": 100,
+    "projectName": "Levy Mwanawasa University Teaching Hospital Expansion",
+    "supplier": "Consortium HR / Healthcare construction experts",
+    "estimatedCost": 4500000
+  },
+  {
+    "resourceType": "Material",
+    "description": "HVAC and clean room systems",
+    "quantity": 8,
+    "requiredDate": "2026-06-01T00:00:00",
+    "status": "Procurement",
+    "progress": 30,
+    "projectName": "Levy Mwanawasa University Teaching Hospital Expansion",
+    "supplier": "Johnson Controls / Daikin",
+    "estimatedCost": 18000000
+  },
+  {
+    "resourceType": "Material",
+    "description": "Water treatment chemicals and membranes",
+    "quantity": 1,
+    "requiredDate": "2026-01-01T00:00:00",
+    "status": "Ordered",
+    "progress": 50,
+    "projectName": "Lusaka Water and Sewerage Treatment Plant",
+    "supplier": "Veolia Procurement / DuPont",
+    "estimatedCost": 12000000
+  },
+  {
+    "resourceType": "Equipment",
+    "description": "Water pumps and treatment machinery",
+    "quantity": 24,
+    "requiredDate": "2025-03-01T00:00:00",
+    "status": "On Site",
+    "progress": 80,
+    "projectName": "Lusaka Water and Sewerage Treatment Plant",
+    "supplier": "Grundfos / KSB Pumps",
+    "estimatedCost": 28000000
+  },
+  {
+    "resourceType": "Personnel",
+    "description": "Water engineering specialists",
+    "quantity": 180,
+    "requiredDate": "2024-07-15T00:00:00",
+    "status": "Mobilized",
+    "progress": 100,
+    "projectName": "Lusaka Water and Sewerage Treatment Plant",
+    "supplier": "Veolia HR / Local engineers",
+    "estimatedCost": 2800000
+  },
+  {
+    "resourceType": "Material",
+    "description": "Airport terminal finishing materials (glass, aluminum, flooring)",
+    "quantity": 1,
+    "requiredDate": "2025-09-01T00:00:00",
+    "status": "Ordered",
+    "progress": 70,
+    "projectName": "Kenneth Kaunda International Airport Terminal Expansion",
+    "supplier": "Multiple international suppliers",
+    "estimatedCost": 38000000
+  },
+  {
+    "resourceType": "Equipment",
+    "description": "Baggage handling and security screening systems",
+    "quantity": 8,
+    "requiredDate": "2026-03-01T00:00:00",
+    "status": "Ordered",
+    "progress": 55,
+    "projectName": "Kenneth Kaunda International Airport Terminal Expansion",
+    "supplier": "Siemens Logistics / Smiths Detection",
+    "estimatedCost": 42000000
+  },
+  {
+    "resourceType": "Personnel",
+    "description": "Airport construction and aviation specialists",
+    "quantity": 650,
+    "requiredDate": "2024-01-10T00:00:00",
+    "status": "Mobilized",
+    "progress": 100,
+    "projectName": "Kenneth Kaunda International Airport Terminal Expansion",
+    "supplier": "ACSA recruitment / Local contractors",
+    "estimatedCost": 6200000
+  }
+]

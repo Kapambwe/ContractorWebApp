@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "projectId": 1,
+    "type": "Info",
+    "title": "Quarterly Consortium Meeting Scheduled",
+    "message": "Consortium steering committee meeting scheduled for December 15, 2024 at PPP Unit offices. All members required to attend.",
+    "date": "2024-12-10T08:00:00",
+    "isRead": true,
+    "priority": "High"
+  },
+  {
+    "id": "2",
+    "projectId": 1,
+    "type": "Warning",
+    "title": "Land Acquisition Delay - Section 2",
+    "message": "Delay in land compensation for Section 2 (Kabwe-Kapiri Mposhi). Additional budget allocation required from contingency fund.",
+    "date": "2024-11-25T14:30:00",
+    "isRead": true,
+    "priority": "High"
+  },
+  {
+    "id": "3",
+    "projectId": 1,
+    "type": "Success",
+    "title": "AfDB Disbursement Completed",
+    "message": "African Development Bank has successfully disbursed the Q4 tranche of USD 42.5 million to consortium account.",
+    "date": "2025-01-15T16:00:00",
+    "isRead": false,
+    "priority": "High"
+  },
+  {
+    "id": "4",
+    "projectId": 2,
+    "type": "Success",
+    "title": "Foundation Works Milestone Achieved",
+    "message": "Foundation and basement works successfully completed and verified by independent engineer. 85% progress confirmed.",
+    "date": "2024-12-05T10:00:00",
+    "isRead": true,
+    "priority": "Medium"
+  },
+  {
+    "id": "5",
+    "projectId": 2,
+    "type": "Info",
+    "title": "Medical Equipment Delivery Schedule Updated",
+    "message": "Siemens has updated the delivery schedule for MRI and CT scanners. New delivery date: September 2026.",
+    "date": "2024-12-10T15:30:00",
+    "isRead": true,
+    "priority": "Medium"
+  },
+  {
+    "id": "6",
+    "projectId": 2,
+    "type": "Warning",
+    "title": "IFC Mid-Term Review Scheduled",
+    "message": "International Finance Corporation has scheduled mid-term project review for January 2025. Prepare comprehensive progress documentation.",
+    "date": "2024-12-18T09:00:00",
+    "isRead": false,
+    "priority": "High"
+  },
+  {
+    "id": "7",
+    "projectId": 4,
+    "type": "Success",
+    "title": "Water Quality Tests Passed",
+    "message": "All water quality parameters meet WHO standards and Zambian regulations. Certification issued by independent laboratory.",
+    "date": "2024-11-25T11:00:00",
+    "isRead": true,
+    "priority": "Medium"
+  },
+  {
+    "id": "8",
+    "projectId": 4,
+    "type": "Info",
+    "title": "AfDB Supervision Mission Completed",
+    "message": "African Development Bank supervision mission concluded with positive assessment. Recommendations provided for implementation.",
+    "date": "2024-12-08T14:00:00",
+    "isRead": true,
+    "priority": "Medium"
+  },
+  {
+    "id": "9",
+    "projectId": 5,
+    "type": "Success",
+    "title": "ICAO Compliance Certificate Issued",
+    "message": "International Civil Aviation Organization has certified runway extension compliance with ICAO Annex 14 standards.",
+    "date": "2024-12-12T16:30:00",
+    "isRead": true,
+    "priority": "High"
+  },
+  {
+    "id": "10",
+    "projectId": 5,
+    "type": "Info",
+    "title": "Phase 2 Payment Processed",
+    "message": "Terminal Phase 2 completion payment of K67.5 million has been processed and disbursed to consortium account.",
+    "date": "2025-01-10T10:00:00",
+    "isRead": false,
+    "priority": "High"
+  },
+  {
+    "id": "11",
+    "projectId": 3,
+    "type": "Warning",
+    "title": "Financial Close Pending - Final Documentation",
+    "message": "Hydropower project financial close pending final documentation from World Bank IFC. Expected completion by January 31, 2025.",
+    "date": "2025-01-05T09:00:00",
+    "isRead": false,
+    "priority": "Critical"
+  },
+  {
+    "id": "12",
+    "projectId": 3,
+    "type": "Info",
+    "title": "Environmental Safeguards Consultation Scheduled",
+    "message": "Public consultation on environmental and social impact assessment scheduled for February 2025 in affected communities.",
+    "date": "2025-01-08T11:00:00",
+    "isRead": false,
+    "priority": "Medium"
+  }
+]

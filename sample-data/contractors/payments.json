@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "projectId": 1,
+    "amountClaimed": 250000,
+    "amountVerified": 240000,
+    "amountPaid": 240000,
+    "status": "Paid",
+    "uploadedDocuments": [
+      "Invoice_P1_1.pdf",
+      "Inspection_P1_1.pdf",
+      "PaymentCert_P1_1.pdf"
+    ]
+  },
+  {
+    "id": 2,
+    "projectId": 1,
+    "amountClaimed": 350000,
+    "amountVerified": 0,
+    "amountPaid": 0,
+    "status": "Pending Verification",
+    "uploadedDocuments": [
+      "Invoice_P1_2.pdf",
+      "ProgressReport_P1_2.pdf"
+    ]
+  },
+  {
+    "id": 3,
+    "projectId": 2,
+    "amountClaimed": 450000,
+    "amountVerified": 450000,
+    "amountPaid": 450000,
+    "status": "Paid",
+    "uploadedDocuments": [
+      "Invoice_P2_1.pdf",
+      "PaymentCert_P2_1.pdf",
+      "Inspection_P2_1.pdf"
+    ]
+  },
+  {
+    "id": 4,
+    "projectId": 3,
+    "amountClaimed": 400000,
+    "amountVerified": 380000,
+    "amountPaid": 380000,
+    "status": "Paid",
+    "uploadedDocuments": [
+      "Invoice_P3_1.pdf",
+      "Inspection_P3_1.pdf"
+    ]
+  }
+]

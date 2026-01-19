@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "certificateNumber": "MIC-SUB-001-2024",
+    "projectId": 1,
+    "inspectorName": "George Chanda",
+    "inspectorTitle": "Municipal Electrical Inspector",
+    "licenseNumber": "MEI-2024-678",
+    "inspectionDate": "2024-12-20T00:00:00",
+    "certificationDate": "2024-12-22T00:00:00",
+    "complianceStatus": "Approved",
+    "remarks": "Electrical installation meets safety standards. Cable laying and conduit work approved.",
+    "isApproved": true
+  },
+  {
+    "id": 2,
+    "certificateNumber": "MIC-SUB-002-2024",
+    "projectId": 2,
+    "inspectorName": "Alice Banda",
+    "inspectorTitle": "Municipal Plumbing Inspector",
+    "licenseNumber": "MPI-2024-789",
+    "inspectionDate": "2024-12-05T00:00:00",
+    "certificationDate": "2024-12-07T00:00:00",
+    "complianceStatus": "Approved",
+    "remarks": "Plumbing work complies with water supply regulations. Pressure tests satisfactory.",
+    "isApproved": true
+  },
+  {
+    "id": 3,
+    "certificateNumber": "MIC-SUB-003-2024",
+    "projectId": 4,
+    "inspectorName": "Peter Mwale",
+    "inspectorTitle": "Municipal Building Inspector",
+    "licenseNumber": "MBI-2024-901",
+    "inspectionDate": "2024-09-25T00:00:00",
+    "certificationDate": "2024-09-27T00:00:00",
+    "complianceStatus": "Approved",
+    "remarks": "Market stall construction meets building codes. Carpentry work of high quality.",
+    "isApproved": true
+  }
+]

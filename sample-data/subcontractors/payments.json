@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "projectId": 1,
+    "amountClaimed": 120000,
+    "amountVerified": 115000,
+    "amountPaid": 115000,
+    "status": "Paid",
+    "uploadedDocuments": [
+      "Invoice_Electrical_P1_1.pdf",
+      "Inspection_Electrical_P1_1.pdf",
+      "PaymentCert_P1_1.pdf"
+    ]
+  },
+  {
+    "id": 2,
+    "projectId": 1,
+    "amountClaimed": 95000,
+    "amountVerified": 0,
+    "amountPaid": 0,
+    "status": "Pending Verification",
+    "uploadedDocuments": [
+      "Invoice_Electrical_P1_2.pdf",
+      "ProgressReport_Electrical_P1_2.pdf"
+    ]
+  },
+  {
+    "id": 3,
+    "projectId": 2,
+    "amountClaimed": 85000,
+    "amountVerified": 85000,
+    "amountPaid": 85000,
+    "status": "Paid",
+    "uploadedDocuments": [
+      "Invoice_Plumbing_P2_1.pdf",
+      "PaymentCert_P2_1.pdf",
+      "Inspection_Plumbing_P2_1.pdf"
+    ]
+  },
+  {
+    "id": 4,
+    "projectId": 2,
+    "amountClaimed": 70000,
+    "amountVerified": 68000,
+    "amountPaid": 68000,
+    "status": "Paid",
+    "uploadedDocuments": [
+      "Invoice_Plumbing_P2_2.pdf",
+      "Inspection_Plumbing_P2_2.pdf"
+    ]
+  },
+  {
+    "id": 5,
+    "projectId": 4,
+    "amountClaimed": 185000,
+    "amountVerified": 185000,
+    "amountPaid": 185000,
+    "status": "Paid",
+    "uploadedDocuments": [
+      "Invoice_Carpentry_P4_Final.pdf",
+      "CompletionCert_P4.pdf",
+      "QualityInspection_P4.pdf"
+    ]
+  }
+]

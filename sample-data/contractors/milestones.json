@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "projectId": 1,
+    "name": "Site Clearance & Preparation",
+    "targetDate": "2024-10-15T00:00:00",
+    "actualDate": "2024-10-12T00:00:00",
+    "progress": 100,
+    "verifiedBy": "Project Engineer",
+    "remarks": "Completed ahead of schedule"
+  },
+  {
+    "id": 2,
+    "projectId": 1,
+    "name": "Foundation & Base Layer",
+    "targetDate": "2024-11-30T00:00:00",
+    "actualDate": "2024-12-05T00:00:00",
+    "progress": 100,
+    "verifiedBy": "Council Engineer",
+    "remarks": "Slight delay due to weather"
+  },
+  {
+    "id": 3,
+    "projectId": 1,
+    "name": "Road Surface Layer",
+    "targetDate": "2025-02-28T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 65,
+    "verifiedBy": "Quality Inspector",
+    "remarks": "Work in progress"
+  },
+  {
+    "id": 4,
+    "projectId": 1,
+    "name": "Drainage Installation",
+    "targetDate": "2025-05-31T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 30,
+    "verifiedBy": "",
+    "remarks": "Materials on site"
+  },
+  {
+    "id": 5,
+    "projectId": 2,
+    "name": "Pipeline Trenching",
+    "targetDate": "2024-09-30T00:00:00",
+    "actualDate": "2024-10-05T00:00:00",
+    "progress": 100,
+    "verifiedBy": "Water Engineer",
+    "remarks": "Completed with minor delays"
+  },
+  {
+    "id": 6,
+    "projectId": 2,
+    "name": "Pipeline Installation",
+    "targetDate": "2024-12-31T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 75,
+    "verifiedBy": "Project Manager",
+    "remarks": "Installation ongoing"
+  },
+  {
+    "id": 7,
+    "projectId": 3,
+    "name": "Foundation Works",
+    "targetDate": "2024-10-31T00:00:00",
+    "actualDate": "2024-11-02T00:00:00",
+    "progress": 100,
+    "verifiedBy": "Structural Engineer",
+    "remarks": "Foundation approved"
+  },
+  {
+    "id": 8,
+    "projectId": 3,
+    "name": "Wall Construction",
+    "targetDate": "2025-01-31T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 55,
+    "verifiedBy": "Council Engineer",
+    "remarks": "Blockwork in progress"
+  }
+]

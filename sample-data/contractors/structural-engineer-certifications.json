@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "certificateNumber": "SEC-001-2024",
+    "projectId": 1,
+    "engineerName": "Patrick Lungu, PEng",
+    "engineerLicenseNumber": "EIZ-2024-1122",
+    "inspectionDate": "2024-11-20T00:00:00",
+    "certificationDate": "2024-11-22T00:00:00",
+    "structuralIntegrity": "Satisfactory",
+    "loadBearingCapacity": "Verified",
+    "materialsCompliance": true,
+    "recommendations": "Continue monitoring settlement during construction",
+    "isApproved": true
+  },
+  {
+    "id": 2,
+    "certificateNumber": "SEC-002-2024",
+    "projectId": 3,
+    "engineerName": "Elizabeth Mwale, PEng",
+    "engineerLicenseNumber": "EIZ-2024-2233",
+    "inspectionDate": "2024-10-30T00:00:00",
+    "certificationDate": "2024-11-01T00:00:00",
+    "structuralIntegrity": "Excellent",
+    "loadBearingCapacity": "Verified",
+    "materialsCompliance": true,
+    "recommendations": "Foundation meets all structural requirements. Approved to proceed.",
+    "isApproved": true
+  }
+]

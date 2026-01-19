@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "projectId": 1,
+    "name": "Cable Laying & Conduit Installation",
+    "targetDate": "2024-12-15T00:00:00",
+    "actualDate": "2024-12-12T00:00:00",
+    "progress": 100,
+    "verifiedBy": "Electrical Engineer",
+    "remarks": "Completed ahead of schedule"
+  },
+  {
+    "id": 2,
+    "projectId": 1,
+    "name": "Light Fixture Installation",
+    "targetDate": "2025-01-31T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 45,
+    "verifiedBy": "Site Supervisor",
+    "remarks": "Work in progress - 60 of 135 fixtures installed"
+  },
+  {
+    "id": 3,
+    "projectId": 1,
+    "name": "Electrical Testing & Commissioning",
+    "targetDate": "2025-03-15T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 0,
+    "verifiedBy": "",
+    "remarks": "Pending completion of installation"
+  },
+  {
+    "id": 4,
+    "projectId": 2,
+    "name": "Pipe Installation & Fitting",
+    "targetDate": "2024-11-30T00:00:00",
+    "actualDate": "2024-12-02T00:00:00",
+    "progress": 100,
+    "verifiedBy": "Plumbing Inspector",
+    "remarks": "Minor delay due to material delivery"
+  },
+  {
+    "id": 5,
+    "projectId": 2,
+    "name": "Valve & Connection Points",
+    "targetDate": "2025-01-15T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 60,
+    "verifiedBy": "Project Engineer",
+    "remarks": "Installation ongoing"
+  },
+  {
+    "id": 6,
+    "projectId": 2,
+    "name": "Pressure Testing",
+    "targetDate": "2025-02-28T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 20,
+    "verifiedBy": "",
+    "remarks": "Preliminary tests completed"
+  },
+  {
+    "id": 7,
+    "projectId": 4,
+    "name": "Market Stall Framework",
+    "targetDate": "2024-07-15T00:00:00",
+    "actualDate": "2024-07-10T00:00:00",
+    "progress": 100,
+    "verifiedBy": "Carpentry Supervisor",
+    "remarks": "Completed on time"
+  },
+  {
+    "id": 8,
+    "projectId": 4,
+    "name": "Roofing & Finishing",
+    "targetDate": "2024-09-15T00:00:00",
+    "actualDate": "2024-09-12T00:00:00",
+    "progress": 100,
+    "verifiedBy": "Quality Inspector",
+    "remarks": "Project completed successfully"
+  }
+]

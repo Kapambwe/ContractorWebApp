@@ -1,0 +1,44 @@
+[
+  {
+    "awardNumber": "AWD-CONT-2025-001",
+    "fundingAgency": "National Road Development Agency",
+    "notificationDate": "2025-09-01T00:00:00",
+    "dueDate": "2025-10-15T00:00:00",
+    "status": "Acknowledged",
+    "amount": 2500000,
+    "termsSummary": "Road rehabilitation with 18-month completion period. Performance bond of 10% required. Monthly progress reports mandatory.",
+    "acknowledgedBy": "contractor@roadworks.com",
+    "acknowledgedAt": "2025-09-05T00:00:00",
+    "id": "1",
+    "createdAt": "2025-09-01T00:00:00",
+    "updatedAt": "2025-09-05T00:00:00"
+  },
+  {
+    "awardNumber": "AWD-CONT-2025-002",
+    "fundingAgency": "Water and Sanitation Authority",
+    "notificationDate": "2025-08-10T00:00:00",
+    "dueDate": "2025-09-20T00:00:00",
+    "status": "Acknowledged",
+    "amount": 1800000,
+    "termsSummary": "Water supply system installation. 12-month project duration. Quality testing required at all stages.",
+    "acknowledgedBy": "contractor@waterworks.com",
+    "acknowledgedAt": "2025-08-15T00:00:00",
+    "id": "2",
+    "createdAt": "2025-08-10T00:00:00",
+    "updatedAt": "2025-08-15T00:00:00"
+  },
+  {
+    "awardNumber": "AWD-CONT-2025-003",
+    "fundingAgency": "Ministry of Education",
+    "notificationDate": "2025-10-01T00:00:00",
+    "dueDate": "2025-11-15T00:00:00",
+    "status": "Pending",
+    "amount": 3200000,
+    "termsSummary": "School building construction. 18-month timeline. Must comply with educational facility standards.",
+    "acknowledgedBy": null,
+    "acknowledgedAt": null,
+    "id": "3",
+    "createdAt": "2025-10-01T00:00:00",
+    "updatedAt": "2025-10-01T00:00:00"
+  }
+]

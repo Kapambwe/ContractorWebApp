@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "projectId": 1,
+    "title": "Weekly Progress Meeting - Electrical Work",
+    "message": "Review of cable installation progress and coordination with main contractor on road surface completion.",
+    "date": "2024-12-10T14:00:00",
+    "sender": "Electrical Supervisor",
+    "recipient": "Prime Contractor PM",
+    "status": "Sent"
+  },
+  {
+    "id": "2",
+    "projectId": 1,
+    "title": "Light Fixture Delivery Update",
+    "message": "LED fixtures delayed by supplier. New delivery date confirmed for January 8, 2025.",
+    "date": "2024-12-18T10:30:00",
+    "sender": "Project Coordinator",
+    "recipient": "Prime Contractor",
+    "status": "Read"
+  },
+  {
+    "id": "3",
+    "projectId": 2,
+    "title": "Pressure Test Results",
+    "message": "Section A pressure testing completed successfully. All connections holding at required PSI.",
+    "date": "2024-12-05T11:00:00",
+    "sender": "Plumbing Engineer",
+    "recipient": "Quality Inspector",
+    "status": "Read"
+  },
+  {
+    "id": "4",
+    "projectId": 2,
+    "title": "Material Quality Verification",
+    "message": "PVC pipes samples tested and approved. Certificate of compliance attached.",
+    "date": "2024-10-15T09:00:00",
+    "sender": "Materials Engineer",
+    "recipient": "Prime Contractor",
+    "status": "Sent"
+  },
+  {
+    "id": "5",
+    "projectId": 4,
+    "title": "Project Completion Notice",
+    "message": "All market stalls completed and inspected. Final handover scheduled for September 28, 2024.",
+    "date": "2024-09-25T15:00:00",
+    "sender": "Carpentry Foreman",
+    "recipient": "Client Representative",
+    "status": "Read"
+  },
+  {
+    "id": "6",
+    "projectId": 1,
+    "title": "Safety Inspection Scheduled",
+    "message": "Electrical safety inspection for installed cable sections scheduled for December 20, 2024.",
+    "date": "2024-12-15T08:30:00",
+    "sender": "Safety Officer",
+    "recipient": "Site Supervisor",
+    "status": "Sent"
+  }
+]

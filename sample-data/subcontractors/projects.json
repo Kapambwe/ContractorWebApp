@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Electrical Installation - Road Lighting",
+    "type": "Subcontract - Electrical",
+    "ward": "Central Ward",
+    "constituency": "Lusaka Central",
+    "startDate": "2024-11-01T00:00:00",
+    "endDate": "2025-04-30T00:00:00",
+    "contractValue": 450000,
+    "actualValue": 180000,
+    "status": "Ongoing"
+  },
+  {
+    "id": 2,
+    "name": "Plumbing Works - Water Distribution",
+    "type": "Subcontract - Plumbing",
+    "ward": "Northside Ward",
+    "constituency": "Kabwata",
+    "startDate": "2024-09-10T00:00:00",
+    "endDate": "2025-03-10T00:00:00",
+    "contractValue": 280000,
+    "actualValue": 140000,
+    "status": "Ongoing"
+  },
+  {
+    "id": 3,
+    "name": "HVAC Installation - School Complex",
+    "type": "Subcontract - HVAC",
+    "ward": "Education Ward",
+    "constituency": "Matero",
+    "startDate": "2025-01-15T00:00:00",
+    "endDate": "2025-08-15T00:00:00",
+    "contractValue": 520000,
+    "actualValue": 0,
+    "status": "Pending"
+  },
+  {
+    "id": 4,
+    "name": "Carpentry Works - Market Stalls",
+    "type": "Subcontract - Carpentry",
+    "ward": "Market Ward",
+    "constituency": "Kanyama",
+    "startDate": "2024-05-01T00:00:00",
+    "endDate": "2024-09-30T00:00:00",
+    "contractValue": 185000,
+    "actualValue": 185000,
+    "status": "Completed"
+  }
+]

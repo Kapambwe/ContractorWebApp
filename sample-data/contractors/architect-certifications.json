@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "certificateNumber": "SCC-001-2024",
+    "projectId": 1,
+    "architectId": 101,
+    "architectName": "John Mwansa, ZRAA",
+    "architectLicenseNumber": "ZRAA-2024-1234",
+    "inspectionDate": "2024-11-30T00:00:00",
+    "certificationDate": "2024-12-05T00:00:00",
+    "percentageComplete": 65.0,
+    "isDesignCompliant": true,
+    "isWorkmanshipSatisfactory": true,
+    "workmanshipScore": 8,
+    "defectsCount": 2,
+    "allDefectsMinor": true,
+    "defectsRectificationDeadline": "2025-01-05T00:00:00",
+    "isApproved": false
+  },
+  {
+    "id": 2,
+    "certificateNumber": "SCC-002-2024",
+    "projectId": 3,
+    "architectId": 102,
+    "architectName": "Mary Banda, ZRAA",
+    "architectLicenseNumber": "ZRAA-2024-2345",
+    "inspectionDate": "2024-11-02T00:00:00",
+    "certificationDate": "2024-11-05T00:00:00",
+    "percentageComplete": 55.0,
+    "isDesignCompliant": true,
+    "isWorkmanshipSatisfactory": true,
+    "workmanshipScore": 9,
+    "defectsCount": 0,
+    "allDefectsMinor": true,
+    "defectsRectificationDeadline": null,
+    "isApproved": true
+  }
+]

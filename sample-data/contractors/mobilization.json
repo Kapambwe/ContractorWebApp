@@ -1,0 +1,47 @@
+[
+  {
+    "resourceType": "Material",
+    "description": "Asphalt mix for road surface",
+    "quantity": 500,
+    "requiredDate": "2025-02-01T00:00:00",
+    "status": "Ordered",
+    "progress": 60,
+    "projectName": "Urban Road Rehabilitation Project"
+  },
+  {
+    "resourceType": "Personnel",
+    "description": "Road construction engineers",
+    "quantity": 6,
+    "requiredDate": "2024-10-01T00:00:00",
+    "status": "Mobilized",
+    "progress": 100,
+    "projectName": "Urban Road Rehabilitation Project"
+  },
+  {
+    "resourceType": "Equipment",
+    "description": "Road roller 15T",
+    "quantity": 3,
+    "requiredDate": "2024-11-01T00:00:00",
+    "status": "On Site",
+    "progress": 100,
+    "projectName": "Urban Road Rehabilitation Project"
+  },
+  {
+    "resourceType": "Material",
+    "description": "PVC pipes 200mm diameter",
+    "quantity": 2000,
+    "requiredDate": "2024-09-15T00:00:00",
+    "status": "Delivered",
+    "progress": 100,
+    "projectName": "Community Water Supply System"
+  },
+  {
+    "resourceType": "Equipment",
+    "description": "Excavator 200HP",
+    "quantity": 2,
+    "requiredDate": "2024-08-20T00:00:00",
+    "status": "On Site",
+    "progress": 100,
+    "projectName": "Community Water Supply System"
+  }
+]

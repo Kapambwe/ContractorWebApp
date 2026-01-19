@@ -1,0 +1,145 @@
+[
+  {
+    "id": "1",
+    "projectId": 1,
+    "documentType": "PPP Contract",
+    "fileName": "PPP_Concession_Agreement_Toll_Road.pdf",
+    "uploadDate": "2024-06-15T00:00:00",
+    "uploadedBy": "PPP Unit Legal Team",
+    "fileSize": 8192000,
+    "status": "Approved",
+    "classification": "Confidential"
+  },
+  {
+    "id": "2",
+    "projectId": 1,
+    "documentType": "Environmental Impact Assessment",
+    "fileName": "EIA_Lusaka_Ndola_Toll_Road_2024.pdf",
+    "uploadDate": "2024-04-10T00:00:00",
+    "uploadedBy": "Environmental Consultant",
+    "fileSize": 15360000,
+    "status": "Approved",
+    "classification": "Public"
+  },
+  {
+    "id": "3",
+    "projectId": 1,
+    "documentType": "Financial Model",
+    "fileName": "Financial_Model_25_Year_Projection.xlsx",
+    "uploadDate": "2024-05-20T00:00:00",
+    "uploadedBy": "Financial Advisor",
+    "fileSize": 3072000,
+    "status": "Approved",
+    "classification": "Confidential"
+  },
+  {
+    "id": "4",
+    "projectId": 1,
+    "documentType": "Progress Report",
+    "fileName": "Quarterly_Progress_Q4_2024.pdf",
+    "uploadDate": "2024-12-31T00:00:00",
+    "uploadedBy": "Independent Engineer",
+    "fileSize": 2048000,
+    "status": "Submitted",
+    "classification": "Internal"
+  },
+  {
+    "id": "5",
+    "projectId": 2,
+    "documentType": "PPP Contract",
+    "fileName": "DBFO_Agreement_Hospital_Expansion.pdf",
+    "uploadDate": "2024-08-01T00:00:00",
+    "uploadedBy": "Ministry of Health / PPP Unit",
+    "fileSize": 6144000,
+    "status": "Approved",
+    "classification": "Confidential"
+  },
+  {
+    "id": "6",
+    "projectId": 2,
+    "documentType": "Technical Drawings",
+    "fileName": "Hospital_Architectural_Engineering_Drawings.pdf",
+    "uploadDate": "2024-07-15T00:00:00",
+    "uploadedBy": "Design Architect",
+    "fileSize": 25600000,
+    "status": "Approved",
+    "classification": "Internal"
+  },
+  {
+    "id": "7",
+    "projectId": 2,
+    "documentType": "Independent Engineer Report",
+    "fileName": "IE_Monthly_Report_November_2024.pdf",
+    "uploadDate": "2024-12-05T00:00:00",
+    "uploadedBy": "Independent Engineer",
+    "fileSize": 1536000,
+    "status": "Submitted",
+    "classification": "Internal"
+  },
+  {
+    "id": "8",
+    "projectId": 4,
+    "documentType": "PPP Contract",
+    "fileName": "ROT_Agreement_Water_Treatment_Plant.pdf",
+    "uploadDate": "2024-07-01T00:00:00",
+    "uploadedBy": "LWSC / PPP Unit",
+    "fileSize": 5120000,
+    "status": "Approved",
+    "classification": "Confidential"
+  },
+  {
+    "id": "9",
+    "projectId": 4,
+    "documentType": "Water Quality Report",
+    "fileName": "Water_Quality_Testing_Results_Nov_2024.pdf",
+    "uploadDate": "2024-11-25T00:00:00",
+    "uploadedBy": "Water Quality Engineer",
+    "fileSize": 512000,
+    "status": "Approved",
+    "classification": "Public"
+  },
+  {
+    "id": "10",
+    "projectId": 4,
+    "documentType": "Lender Report",
+    "fileName": "AfDB_Supervision_Mission_Report_Dec_2024.pdf",
+    "uploadDate": "2024-12-15T00:00:00",
+    "uploadedBy": "AfDB Mission Team",
+    "fileSize": 2048000,
+    "status": "Submitted",
+    "classification": "Confidential"
+  },
+  {
+    "id": "11",
+    "projectId": 5,
+    "documentType": "PPP Contract",
+    "fileName": "BOT_Agreement_Airport_Expansion.pdf",
+    "uploadDate": "2024-01-10T00:00:00",
+    "uploadedBy": "National Airports Corporation",
+    "fileSize": 7168000,
+    "status": "Approved",
+    "classification": "Confidential"
+  },
+  {
+    "id": "12",
+    "projectId": 5,
+    "documentType": "ICAO Certification",
+    "fileName": "ICAO_Runway_Compliance_Certificate.pdf",
+    "uploadDate": "2024-12-12T00:00:00",
+    "uploadedBy": "ICAO Inspector",
+    "fileSize": 1024000,
+    "status": "Approved",
+    "classification": "Public"
+  },
+  {
+    "id": "13",
+    "projectId": 5,
+    "documentType": "Safety Audit Report",
+    "fileName": "Airport_Safety_Audit_Q4_2024.pdf",
+    "uploadDate": "2024-12-20T00:00:00",
+    "uploadedBy": "Aviation Safety Inspector",
+    "fileSize": 1536000,
+    "status": "Submitted",
+    "classification": "Internal"
+  }
+]

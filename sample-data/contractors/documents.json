@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "projectId": 1,
+    "documentType": "Contract",
+    "fileName": "Main_Contract_Road_Project.pdf",
+    "uploadDate": "2024-09-15T00:00:00",
+    "uploadedBy": "Admin User",
+    "fileSize": 2048000,
+    "status": "Approved"
+  },
+  {
+    "id": "2",
+    "projectId": 1,
+    "documentType": "Progress Report",
+    "fileName": "Monthly_Progress_Oct_2024.pdf",
+    "uploadDate": "2024-10-31T00:00:00",
+    "uploadedBy": "Project Manager",
+    "fileSize": 512000,
+    "status": "Submitted"
+  },
+  {
+    "id": "3",
+    "projectId": 2,
+    "documentType": "Technical Drawings",
+    "fileName": "Water_System_Drawings.pdf",
+    "uploadDate": "2024-08-10T00:00:00",
+    "uploadedBy": "Design Engineer",
+    "fileSize": 5120000,
+    "status": "Approved"
+  },
+  {
+    "id": "4",
+    "projectId": 3,
+    "documentType": "Inspection Report",
+    "fileName": "Foundation_Inspection_Nov_2024.pdf",
+    "uploadDate": "2024-11-05T00:00:00",
+    "uploadedBy": "Inspector",
+    "fileSize": 1024000,
+    "status": "Approved"
+  }
+]

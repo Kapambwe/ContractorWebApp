@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "projectId": 1,
+    "type": "Info",
+    "title": "Progress Review Meeting",
+    "message": "Monthly progress review meeting scheduled for October 20, 2024 at 10:00 AM",
+    "date": "2024-10-15T08:00:00",
+    "isRead": true
+  },
+  {
+    "id": "2",
+    "projectId": 1,
+    "type": "Warning",
+    "title": "Payment Due",
+    "message": "Payment claim verification pending. Please provide additional documentation.",
+    "date": "2024-11-20T14:30:00",
+    "isRead": false
+  },
+  {
+    "id": "3",
+    "projectId": 2,
+    "type": "Success",
+    "title": "Milestone Completed",
+    "message": "Pipeline trenching milestone has been successfully completed and verified.",
+    "date": "2024-10-05T16:00:00",
+    "isRead": true
+  },
+  {
+    "id": "4",
+    "projectId": 3,
+    "type": "Info",
+    "title": "Inspection Scheduled",
+    "message": "Foundation inspection scheduled for November 2, 2024 at 9:00 AM",
+    "date": "2024-10-28T10:00:00",
+    "isRead": true
+  }
+]

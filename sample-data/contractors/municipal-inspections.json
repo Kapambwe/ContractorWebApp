@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "certificateNumber": "MIC-001-2024",
+    "projectId": 1,
+    "inspectorName": "David Phiri",
+    "inspectorTitle": "Municipal Building Inspector",
+    "licenseNumber": "MBI-2024-567",
+    "inspectionDate": "2024-11-25T00:00:00",
+    "certificationDate": "2024-11-28T00:00:00",
+    "complianceStatus": "Conditional",
+    "remarks": "Work progressing well. Minor safety issues to be addressed within 7 days.",
+    "isApproved": true
+  },
+  {
+    "id": 2,
+    "certificateNumber": "MIC-002-2024",
+    "projectId": 3,
+    "inspectorName": "Sarah Tembo",
+    "inspectorTitle": "Municipal Building Inspector",
+    "licenseNumber": "MBI-2024-890",
+    "inspectionDate": "2024-11-01T00:00:00",
+    "certificationDate": "2024-11-03T00:00:00",
+    "complianceStatus": "Approved",
+    "remarks": "All building codes and safety standards met. Foundation work approved.",
+    "isApproved": true
+  }
+]

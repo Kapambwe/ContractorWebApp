@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "projectId": 1,
+    "title": "Monthly Progress Meeting - October",
+    "message": "Review of road rehabilitation progress and addressing material supply issues.",
+    "date": "2024-10-20T10:00:00",
+    "sender": "Project Manager",
+    "recipient": "Client Representative",
+    "status": "Sent"
+  },
+  {
+    "id": "2",
+    "projectId": 1,
+    "title": "Weather Delay Notification",
+    "message": "Heavy rains expected to delay surface layer work by 5 days.",
+    "date": "2024-12-01T14:30:00",
+    "sender": "Site Engineer",
+    "recipient": "Project Manager",
+    "status": "Read"
+  },
+  {
+    "id": "3",
+    "projectId": 2,
+    "title": "Water Quality Test Results",
+    "message": "Water quality tests completed successfully. All parameters within acceptable range.",
+    "date": "2024-11-15T09:00:00",
+    "sender": "Quality Engineer",
+    "recipient": "Client",
+    "status": "Sent"
+  },
+  {
+    "id": "4",
+    "projectId": 3,
+    "title": "Foundation Inspection Approval",
+    "message": "Foundation work has been inspected and approved. Proceeding to next phase.",
+    "date": "2024-11-05T11:30:00",
+    "sender": "Structural Engineer",
+    "recipient": "Project Manager",
+    "status": "Read"
+  }
+]

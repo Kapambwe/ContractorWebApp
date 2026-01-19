@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "certificateNumber": "SCC-SUB-001-2024",
+    "projectId": 4,
+    "architectId": 103,
+    "architectName": "James Sichone, ZRAA",
+    "architectLicenseNumber": "ZRAA-2024-3456",
+    "inspectionDate": "2024-09-20T00:00:00",
+    "certificationDate": "2024-09-22T00:00:00",
+    "percentageComplete": 100.0,
+    "isDesignCompliant": true,
+    "isWorkmanshipSatisfactory": true,
+    "workmanshipScore": 9,
+    "defectsCount": 0,
+    "allDefectsMinor": true,
+    "defectsRectificationDeadline": null,
+    "isApproved": true
+  },
+  {
+    "id": 2,
+    "certificateNumber": "SCC-SUB-002-2024",
+    "projectId": 1,
+    "architectId": 104,
+    "architectName": "Ruth Mbewe, ZRAA",
+    "architectLicenseNumber": "ZRAA-2024-4567",
+    "inspectionDate": "2024-12-15T00:00:00",
+    "certificationDate": "2024-12-18T00:00:00",
+    "percentageComplete": 45.0,
+    "isDesignCompliant": true,
+    "isWorkmanshipSatisfactory": true,
+    "workmanshipScore": 8,
+    "defectsCount": 1,
+    "allDefectsMinor": true,
+    "defectsRectificationDeadline": "2025-01-15T00:00:00",
+    "isApproved": false
+  }
+]

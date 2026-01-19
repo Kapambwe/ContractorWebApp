@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "certificateNumber": "SPC-001-2024",
+    "projectId": 2,
+    "specialistType": "Water Quality Engineer",
+    "specialistName": "Dr. Joseph Banda",
+    "licenseNumber": "WQE-2024-445",
+    "inspectionDate": "2024-11-10T00:00:00",
+    "certificationDate": "2024-11-12T00:00:00",
+    "testResults": "All water quality parameters within WHO standards",
+    "complianceStatus": "Approved",
+    "isApproved": true
+  },
+  {
+    "id": 2,
+    "certificateNumber": "SPC-002-2024",
+    "projectId": 1,
+    "specialistType": "Geotechnical Engineer",
+    "specialistName": "Dr. Grace Mulenga",
+    "licenseNumber": "GTE-2024-556",
+    "inspectionDate": "2024-10-25T00:00:00",
+    "certificationDate": "2024-10-28T00:00:00",
+    "testResults": "Soil bearing capacity adequate for road construction",
+    "complianceStatus": "Approved",
+    "isApproved": true
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "certificateNumber": "SPC-SUB-001-2024",
+    "projectId": 1,
+    "specialistType": "Electrical Safety Engineer",
+    "specialistName": "Dr. Kenneth Mwamba",
+    "licenseNumber": "ESE-2024-667",
+    "inspectionDate": "2024-12-20T00:00:00",
+    "certificationDate": "2024-12-23T00:00:00",
+    "testResults": "All electrical installations tested. Insulation resistance and earth continuity within acceptable limits",
+    "complianceStatus": "Approved",
+    "isApproved": true
+  },
+  {
+    "id": 2,
+    "certificateNumber": "SPC-SUB-002-2024",
+    "projectId": 2,
+    "specialistType": "Hydraulic Engineer",
+    "specialistName": "Eng. Rachel Kapasa",
+    "licenseNumber": "HYE-2024-778",
+    "inspectionDate": "2024-12-05T00:00:00",
+    "certificationDate": "2024-12-08T00:00:00",
+    "testResults": "Hydraulic pressure tests completed. System operates within design parameters",
+    "complianceStatus": "Approved",
+    "isApproved": true
+  },
+  {
+    "id": 3,
+    "certificateNumber": "SPC-SUB-003-2024",
+    "projectId": 4,
+    "specialistType": "Timber Treatment Specialist",
+    "specialistName": "Mr. Daniel Tembo",
+    "licenseNumber": "TTS-2024-889",
+    "inspectionDate": "2024-09-10T00:00:00",
+    "certificationDate": "2024-09-12T00:00:00",
+    "testResults": "Timber treatment verification completed. All materials properly treated against termites and rot",
+    "complianceStatus": "Approved",
+    "isApproved": true
+  }
+]

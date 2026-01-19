@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "projectId": 1,
+    "type": "Info",
+    "title": "Weekly Coordination Meeting",
+    "message": "Weekly coordination meeting with prime contractor scheduled for December 10, 2024 at 2:00 PM",
+    "date": "2024-12-05T08:00:00",
+    "isRead": true
+  },
+  {
+    "id": "2",
+    "projectId": 1,
+    "type": "Warning",
+    "title": "Material Delivery Delay",
+    "message": "LED light fixtures delivery delayed. Expected arrival date: January 8, 2025. Please adjust work schedule accordingly.",
+    "date": "2024-12-18T10:30:00",
+    "isRead": false
+  },
+  {
+    "id": "3",
+    "projectId": 2,
+    "type": "Success",
+    "title": "Milestone Completed",
+    "message": "Pipe installation milestone has been successfully completed and verified by prime contractor.",
+    "date": "2024-12-02T16:00:00",
+    "isRead": true
+  },
+  {
+    "id": "4",
+    "projectId": 2,
+    "type": "Info",
+    "title": "Pressure Testing Scheduled",
+    "message": "Section B pressure testing scheduled for December 15, 2024 at 10:00 AM",
+    "date": "2024-12-08T09:00:00",
+    "isRead": true
+  },
+  {
+    "id": "5",
+    "projectId": 1,
+    "type": "Warning",
+    "title": "Payment Documentation Required",
+    "message": "Additional documentation required for payment claim verification. Please submit updated invoice with detailed breakdown.",
+    "date": "2024-12-22T11:00:00",
+    "isRead": false
+  },
+  {
+    "id": "6",
+    "projectId": 4,
+    "type": "Success",
+    "title": "Project Completed",
+    "message": "Carpentry works successfully completed. Final payment processed.",
+    "date": "2024-09-30T14:00:00",
+    "isRead": true
+  },
+  {
+    "id": "7",
+    "projectId": 2,
+    "type": "Info",
+    "title": "Quality Inspection Notice",
+    "message": "Materials quality inspection scheduled for pipe fittings. Inspector arriving on site December 12, 2024.",
+    "date": "2024-12-07T13:30:00",
+    "isRead": true
+  }
+]

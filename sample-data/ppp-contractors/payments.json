@@ -1,0 +1,141 @@
+[
+  {
+    "id": 1,
+    "projectId": 1,
+    "paymentNumber": "PPP-PAY-001-Q1-2025",
+    "amountClaimed": 42500000,
+    "amountVerified": 42500000,
+    "amountPaid": 42500000,
+    "status": "Paid",
+    "claimDate": "2024-12-15T00:00:00",
+    "verificationDate": "2024-12-28T00:00:00",
+    "paymentDate": "2025-01-15T00:00:00",
+    "verifiedBy": "PPP Unit Technical Team",
+    "paymentTranche": "Mobilization Advance - 5%",
+    "uploadedDocuments": [
+      "Invoice_PPP001_Q1_2025.pdf",
+      "Progress_Report_Q1_2025.pdf",
+      "Independent_Engineer_Certificate.pdf",
+      "Bank_Guarantee_Mobilization.pdf"
+    ]
+  },
+  {
+    "id": 2,
+    "projectId": 1,
+    "paymentNumber": "PPP-PAY-001-Q2-2025",
+    "amountClaimed": 85000000,
+    "amountVerified": 0,
+    "amountPaid": 0,
+    "status": "Under Review",
+    "claimDate": "2025-01-10T00:00:00",
+    "verificationDate": null,
+    "paymentDate": null,
+    "verifiedBy": null,
+    "paymentTranche": "Construction Phase Payment 1",
+    "uploadedDocuments": [
+      "Invoice_PPP001_Q2_2025.pdf",
+      "Progress_Report_Q2_2025.pdf",
+      "Milestone_Completion_Certificates.pdf"
+    ]
+  },
+  {
+    "id": 3,
+    "projectId": 2,
+    "paymentNumber": "PPP-PAY-002-001",
+    "amountClaimed": 16000000,
+    "amountVerified": 16000000,
+    "amountPaid": 16000000,
+    "status": "Paid",
+    "claimDate": "2024-10-01T00:00:00",
+    "verificationDate": "2024-10-15T00:00:00",
+    "paymentDate": "2024-11-01T00:00:00",
+    "verifiedBy": "Ministry of Health / Independent Engineer",
+    "paymentTranche": "Mobilization Advance - 5%",
+    "uploadedDocuments": [
+      "Invoice_PPP002_001.pdf",
+      "Site_Mobilization_Report.pdf",
+      "Equipment_Deployment_Certificate.pdf",
+      "Insurance_Certificates.pdf"
+    ]
+  },
+  {
+    "id": 4,
+    "projectId": 2,
+    "paymentNumber": "PPP-PAY-002-002",
+    "amountClaimed": 48000000,
+    "amountVerified": 48000000,
+    "amountPaid": 48000000,
+    "status": "Paid",
+    "claimDate": "2024-12-01T00:00:00",
+    "verificationDate": "2024-12-20T00:00:00",
+    "paymentDate": "2025-01-10T00:00:00",
+    "verifiedBy": "Ministry of Health / Independent Engineer",
+    "paymentTranche": "Phase 1 Foundation Works - 15%",
+    "uploadedDocuments": [
+      "Invoice_PPP002_002.pdf",
+      "Foundation_Completion_Certificate.pdf",
+      "Quality_Assurance_Reports.pdf",
+      "Third_Party_Inspection_Reports.pdf"
+    ]
+  },
+  {
+    "id": 5,
+    "projectId": 4,
+    "paymentNumber": "PPP-PAY-004-001",
+    "amountClaimed": 9000000,
+    "amountVerified": 9000000,
+    "amountPaid": 9000000,
+    "status": "Paid",
+    "claimDate": "2024-08-15T00:00:00",
+    "verificationDate": "2024-08-30T00:00:00",
+    "paymentDate": "2024-09-15T00:00:00",
+    "verifiedBy": "LWSC Technical Team / Independent Engineer",
+    "paymentTranche": "Mobilization Advance - 5%",
+    "uploadedDocuments": [
+      "Invoice_PPP004_001.pdf",
+      "Mobilization_Certificate.pdf",
+      "Equipment_List_Verified.pdf"
+    ]
+  },
+  {
+    "id": 6,
+    "projectId": 4,
+    "paymentNumber": "PPP-PAY-004-002",
+    "amountClaimed": 36000000,
+    "amountVerified": 35100000,
+    "amountPaid": 35100000,
+    "status": "Paid",
+    "claimDate": "2024-11-01T00:00:00",
+    "verificationDate": "2024-11-25T00:00:00",
+    "paymentDate": "2024-12-15T00:00:00",
+    "verifiedBy": "LWSC Technical Team / Independent Engineer",
+    "paymentTranche": "Treatment Plant Construction - 20%",
+    "uploadedDocuments": [
+      "Invoice_PPP004_002.pdf",
+      "Progress_Report_Nov_2024.pdf",
+      "Quality_Test_Results.pdf",
+      "Environmental_Compliance_Certificate.pdf"
+    ]
+  },
+  {
+    "id": 7,
+    "projectId": 5,
+    "paymentNumber": "PPP-PAY-005-006",
+    "amountClaimed": 67500000,
+    "amountVerified": 67500000,
+    "amountPaid": 67500000,
+    "status": "Paid",
+    "claimDate": "2024-12-01T00:00:00",
+    "verificationDate": "2024-12-20T00:00:00",
+    "paymentDate": "2025-01-10T00:00:00",
+    "verifiedBy": "National Airports Corporation / Independent Engineer",
+    "paymentTranche": "Terminal Phase 2 Completion - 15%",
+    "uploadedDocuments": [
+      "Invoice_PPP005_006.pdf",
+      "Phase2_Completion_Certificate.pdf",
+      "ICAO_Compliance_Certificate.pdf",
+      "Fire_Safety_Inspection_Report.pdf",
+      "Structural_Engineer_Certification.pdf"
+    ]
+  }
+]

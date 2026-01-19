@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "certificateNumber": "TPC-001-2024",
+    "projectId": 1,
+    "certificationBody": "National Construction Authority",
+    "certifierName": "Michael Katongo",
+    "certificationDate": "2024-11-15T00:00:00",
+    "certificationType": "Quality Assurance",
+    "status": "Valid",
+    "expiryDate": "2025-05-15T00:00:00",
+    "complianceScore": 85,
+    "remarks": "Project meets quality standards. Regular monitoring recommended."
+  },
+  {
+    "id": 2,
+    "certificateNumber": "TPC-002-2024",
+    "projectId": 2,
+    "certificationBody": "Water Standards Authority",
+    "certifierName": "Linda Mwanza",
+    "certificationDate": "2024-11-08T00:00:00",
+    "certificationType": "Safety & Compliance",
+    "status": "Valid",
+    "expiryDate": "2025-11-08T00:00:00",
+    "complianceScore": 92,
+    "remarks": "Excellent safety standards maintained throughout project."
+  },
+  {
+    "id": 3,
+    "certificateNumber": "TPC-003-2024",
+    "projectId": 3,
+    "certificationBody": "Building Standards Board",
+    "certifierName": "Robert Siame",
+    "certificationDate": "2024-11-05T00:00:00",
+    "certificationType": "Structural Compliance",
+    "status": "Valid",
+    "expiryDate": "2025-11-05T00:00:00",
+    "complianceScore": 88,
+    "remarks": "All structural requirements met. Foundation approved."
+  }
+]

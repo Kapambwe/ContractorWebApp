@@ -1,0 +1,83 @@
+[
+  {
+    "resourceType": "Material",
+    "description": "Electrical cables 3-core 16mm",
+    "quantity": 2500,
+    "requiredDate": "2024-11-15T00:00:00",
+    "status": "Delivered",
+    "progress": 100,
+    "projectName": "Electrical Installation - Road Lighting"
+  },
+  {
+    "resourceType": "Personnel",
+    "description": "Licensed electricians",
+    "quantity": 4,
+    "requiredDate": "2024-11-01T00:00:00",
+    "status": "Mobilized",
+    "progress": 100,
+    "projectName": "Electrical Installation - Road Lighting"
+  },
+  {
+    "resourceType": "Equipment",
+    "description": "Cable laying equipment",
+    "quantity": 2,
+    "requiredDate": "2024-11-10T00:00:00",
+    "status": "On Site",
+    "progress": 100,
+    "projectName": "Electrical Installation - Road Lighting"
+  },
+  {
+    "resourceType": "Material",
+    "description": "LED street light fixtures",
+    "quantity": 135,
+    "requiredDate": "2025-01-05T00:00:00",
+    "status": "Ordered",
+    "progress": 70,
+    "projectName": "Electrical Installation - Road Lighting"
+  },
+  {
+    "resourceType": "Material",
+    "description": "PVC pipes 100mm diameter",
+    "quantity": 1200,
+    "requiredDate": "2024-09-20T00:00:00",
+    "status": "Delivered",
+    "progress": 100,
+    "projectName": "Plumbing Works - Water Distribution"
+  },
+  {
+    "resourceType": "Personnel",
+    "description": "Certified plumbers",
+    "quantity": 3,
+    "requiredDate": "2024-09-10T00:00:00",
+    "status": "Mobilized",
+    "progress": 100,
+    "projectName": "Plumbing Works - Water Distribution"
+  },
+  {
+    "resourceType": "Material",
+    "description": "Pipe fittings and valves",
+    "quantity": 450,
+    "requiredDate": "2024-10-01T00:00:00",
+    "status": "Delivered",
+    "progress": 100,
+    "projectName": "Plumbing Works - Water Distribution"
+  },
+  {
+    "resourceType": "Material",
+    "description": "Treated hardwood timber",
+    "quantity": 850,
+    "requiredDate": "2024-05-10T00:00:00",
+    "status": "Delivered",
+    "progress": 100,
+    "projectName": "Carpentry Works - Market Stalls"
+  },
+  {
+    "resourceType": "Personnel",
+    "description": "Experienced carpenters",
+    "quantity": 5,
+    "requiredDate": "2024-05-01T00:00:00",
+    "status": "Mobilized",
+    "progress": 100,
+    "projectName": "Carpentry Works - Market Stalls"
+  }
+]

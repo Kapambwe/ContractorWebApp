@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "projectId": 1,
+    "name": "Financial Close and Contract Signing",
+    "targetDate": "2024-06-15T00:00:00",
+    "actualDate": "2024-06-15T00:00:00",
+    "progress": 100,
+    "verifiedBy": "PPP Unit / Ministry of Finance",
+    "remarks": "All financing agreements executed. Consortium equity committed."
+  },
+  {
+    "id": 2,
+    "projectId": 1,
+    "name": "Land Acquisition and Resettlement",
+    "targetDate": "2024-09-30T00:00:00",
+    "actualDate": "2024-10-15T00:00:00",
+    "progress": 100,
+    "verifiedBy": "Ministry of Lands / Independent Monitor",
+    "remarks": "Delayed by 15 days due to compensation negotiations. All families resettled."
+  },
+  {
+    "id": 3,
+    "projectId": 1,
+    "name": "Site Mobilization and Camps Establishment",
+    "targetDate": "2024-08-31T00:00:00",
+    "actualDate": "2024-08-28T00:00:00",
+    "progress": 100,
+    "verifiedBy": "Independent Engineer",
+    "remarks": "Four work camps established along the route. Equipment deployed."
+  },
+  {
+    "id": 4,
+    "projectId": 1,
+    "name": "Section 1 Earthworks (Lusaka-Kabwe)",
+    "targetDate": "2025-03-31T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 45,
+    "verifiedBy": "Independent Engineer",
+    "remarks": "Earthworks progressing. 68km of 150km completed."
+  },
+  {
+    "id": 5,
+    "projectId": 1,
+    "name": "Section 2 Earthworks (Kabwe-Kapiri Mposhi)",
+    "targetDate": "2025-06-30T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 25,
+    "verifiedBy": "Independent Engineer",
+    "remarks": "Work commenced January 2025. On schedule."
+  },
+  {
+    "id": 6,
+    "projectId": 1,
+    "name": "Bridge Construction - Lunsemfwa River",
+    "targetDate": "2026-12-31T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 10,
+    "verifiedBy": "",
+    "remarks": "Foundation work initiated. Major span design approved."
+  },
+  {
+    "id": 7,
+    "projectId": 1,
+    "name": "Toll Plaza Systems Installation",
+    "targetDate": "2028-06-30T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 5,
+    "verifiedBy": "",
+    "remarks": "Site locations finalized. Procurement of toll systems underway."
+  },
+  {
+    "id": 8,
+    "projectId": 1,
+    "name": "Final Road Completion and Opening",
+    "targetDate": "2029-06-30T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 0,
+    "verifiedBy": "",
+    "remarks": "Scheduled for mid-2029 completion."
+  },
+  {
+    "id": 9,
+    "projectId": 2,
+    "name": "Financial Close",
+    "targetDate": "2024-08-01T00:00:00",
+    "actualDate": "2024-08-01T00:00:00",
+    "progress": 100,
+    "verifiedBy": "PPP Unit / IFC",
+    "remarks": "IDA credit agreement signed. Consortium equity committed."
+  },
+  {
+    "id": 10,
+    "projectId": 2,
+    "name": "Site Mobilization and Demolition",
+    "targetDate": "2024-09-30T00:00:00",
+    "actualDate": "2024-09-25T00:00:00",
+    "progress": 100,
+    "verifiedBy": "Independent Engineer / Ministry of Health",
+    "remarks": "Old structures demolished. Site prepared for construction."
+  },
+  {
+    "id": 11,
+    "projectId": 2,
+    "name": "Foundation and Basement Works",
+    "targetDate": "2025-02-28T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 85,
+    "verifiedBy": "Structural Engineer / Independent Engineer",
+    "remarks": "Basement level 2 completed. Level 1 walls in progress."
+  },
+  {
+    "id": 12,
+    "projectId": 2,
+    "name": "Main Hospital Building Structure",
+    "targetDate": "2025-12-31T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 30,
+    "verifiedBy": "Structural Engineer",
+    "remarks": "3 floors of 8-story building completed."
+  },
+  {
+    "id": 13,
+    "projectId": 2,
+    "name": "Medical Equipment Installation",
+    "targetDate": "2027-03-31T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 5,
+    "verifiedBy": "",
+    "remarks": "Equipment procurement initiated. Siemens contract signed."
+  },
+  {
+    "id": 14,
+    "projectId": 2,
+    "name": "Hospital Commissioning and Handover",
+    "targetDate": "2027-08-15T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 0,
+    "verifiedBy": "",
+    "remarks": "Scheduled for August 2027."
+  },
+  {
+    "id": 15,
+    "projectId": 4,
+    "name": "Financial Close",
+    "targetDate": "2024-07-01T00:00:00",
+    "actualDate": "2024-07-01T00:00:00",
+    "progress": 100,
+    "verifiedBy": "PPP Unit / AfDB",
+    "remarks": "AfDB loan agreement signed."
+  },
+  {
+    "id": 16,
+    "projectId": 4,
+    "name": "Site Mobilization",
+    "targetDate": "2024-08-15T00:00:00",
+    "actualDate": "2024-08-10T00:00:00",
+    "progress": 100,
+    "verifiedBy": "Independent Engineer",
+    "remarks": "Equipment and personnel mobilized ahead of schedule."
+  },
+  {
+    "id": 17,
+    "projectId": 4,
+    "name": "Treatment Plant Civil Works",
+    "targetDate": "2025-06-30T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 60,
+    "verifiedBy": "Independent Engineer / Water Engineer",
+    "remarks": "Clarifier tanks 80% complete. Filter beds 50% complete."
+  },
+  {
+    "id": 18,
+    "projectId": 4,
+    "name": "Mechanical and Electrical Installation",
+    "targetDate": "2026-03-31T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 20,
+    "verifiedBy": "Electrical Engineer",
+    "remarks": "Pumps and motors procurement completed. Installation ongoing."
+  },
+  {
+    "id": 19,
+    "projectId": 4,
+    "name": "Commissioning and Trial Operation",
+    "targetDate": "2027-01-31T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 0,
+    "verifiedBy": "",
+    "remarks": "Scheduled for Q1 2027."
+  },
+  {
+    "id": 20,
+    "projectId": 5,
+    "name": "Financial Close",
+    "targetDate": "2024-01-10T00:00:00",
+    "actualDate": "2024-01-10T00:00:00",
+    "progress": 100,
+    "verifiedBy": "PPP Unit / Airports Company South Africa",
+    "remarks": "All financing in place. Construction commenced."
+  },
+  {
+    "id": 21,
+    "projectId": 5,
+    "name": "Terminal Building Expansion Phase 1",
+    "targetDate": "2024-12-31T00:00:00",
+    "actualDate": "2024-12-28T00:00:00",
+    "progress": 100,
+    "verifiedBy": "Independent Engineer / ICAO Inspector",
+    "remarks": "Departures hall expansion completed and operational."
+  },
+  {
+    "id": 22,
+    "projectId": 5,
+    "name": "Runway Extension and Strengthening",
+    "targetDate": "2025-06-30T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 65,
+    "verifiedBy": "Independent Engineer / ICAO Inspector",
+    "remarks": "Runway extended by 400m. Strengthening work ongoing."
+  },
+  {
+    "id": 23,
+    "projectId": 5,
+    "name": "Cargo Terminal Construction",
+    "targetDate": "2026-03-31T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 40,
+    "verifiedBy": "Independent Engineer",
+    "remarks": "Structural works 60% complete. Refrigerated storage installed."
+  },
+  {
+    "id": 24,
+    "projectId": 5,
+    "name": "Full Airport Commissioning",
+    "targetDate": "2026-12-31T00:00:00",
+    "actualDate": "0001-01-01T00:00:00",
+    "progress": 35,
+    "verifiedBy": "",
+    "remarks": "On track for Q4 2026 completion."
+  }
+]

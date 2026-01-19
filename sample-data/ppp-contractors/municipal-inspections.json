@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "certificateNumber": "MIC-PPP-001-2024",
+    "projectId": 2,
+    "inspectorName": "Patrick Mwanza",
+    "inspectorTitle": "Chief Municipal Building Inspector",
+    "licenseNumber": "MBI-2024-9012",
+    "inspectionDate": "2024-12-03T00:00:00",
+    "certificationDate": "2024-12-05T00:00:00",
+    "complianceStatus": "Approved",
+    "remarks": "Hospital foundation works meet all municipal building codes and safety regulations. Structural integrity verified. Fire safety measures in place.",
+    "isApproved": true,
+    "municipalAuthority": "Lusaka City Council",
+    "inspectionType": "Foundation and Structural"
+  },
+  {
+    "id": 2,
+    "certificateNumber": "MIC-PPP-002-2024",
+    "projectId": 4,
+    "inspectorName": "Elizabeth Phiri",
+    "inspectorTitle": "Municipal Water and Sanitation Inspector",
+    "licenseNumber": "MWSI-2024-3456",
+    "inspectionDate": "2024-11-28T00:00:00",
+    "certificationDate": "2024-11-30T00:00:00",
+    "complianceStatus": "Approved",
+    "remarks": "Water treatment plant construction complies with all municipal water and sanitation standards. Environmental controls adequate.",
+    "isApproved": true,
+    "municipalAuthority": "Lusaka City Council",
+    "inspectionType": "Water and Sanitation Facilities"
+  },
+  {
+    "id": 3,
+    "certificateNumber": "MIC-PPP-003-2024",
+    "projectId": 5,
+    "inspectorName": "Robert Lungu",
+    "inspectorTitle": "Municipal Building and Safety Inspector",
+    "licenseNumber": "MBI-2024-4567",
+    "inspectionDate": "2024-12-18T00:00:00",
+    "certificationDate": "2024-12-20T00:00:00",
+    "complianceStatus": "Conditional",
+    "remarks": "Airport terminal expansion generally compliant. Minor fire safety equipment upgrades required in baggage handling area within 30 days.",
+    "isApproved": true,
+    "municipalAuthority": "Lusaka City Council",
+    "inspectionType": "Commercial Building and Fire Safety"
+  },
+  {
+    "id": 4,
+    "certificateNumber": "MIC-PPP-004-2024",
+    "projectId": 1,
+    "inspectorName": "Joyce Mwale",
+    "inspectorTitle": "District Infrastructure Inspector",
+    "licenseNumber": "DII-2024-5678",
+    "inspectionDate": "2024-11-15T00:00:00",
+    "certificationDate": "2024-11-18T00:00:00",
+    "complianceStatus": "Approved",
+    "remarks": "Road construction in Kabwe District section meets all local infrastructure standards. Drainage systems properly implemented.",
+    "isApproved": true,
+    "municipalAuthority": "Kabwe Municipal Council",
+    "inspectionType": "Road Infrastructure"
+  }
+]

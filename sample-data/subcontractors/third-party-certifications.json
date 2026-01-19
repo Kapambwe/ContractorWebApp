@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "certificateNumber": "TPC-SUB-001-2024",
+    "projectId": 1,
+    "certificationBody": "Zambia Bureau of Standards",
+    "certifierName": "Andrew Ngoma",
+    "certificationDate": "2024-12-15T00:00:00",
+    "certificationType": "Electrical Safety Compliance",
+    "status": "Valid",
+    "expiryDate": "2025-06-15T00:00:00",
+    "complianceScore": 88,
+    "remarks": "Electrical work meets ZBS standards. Cable specifications verified and approved."
+  },
+  {
+    "id": 2,
+    "certificateNumber": "TPC-SUB-002-2024",
+    "projectId": 2,
+    "certificationBody": "Water Quality Standards Authority",
+    "certifierName": "Monica Chilufya",
+    "certificationDate": "2024-12-01T00:00:00",
+    "certificationType": "Plumbing & Water Safety",
+    "status": "Valid",
+    "expiryDate": "2025-12-01T00:00:00",
+    "complianceScore": 90,
+    "remarks": "Plumbing installation meets water safety standards. Materials approved for potable water."
+  },
+  {
+    "id": 3,
+    "certificateNumber": "TPC-SUB-003-2024",
+    "projectId": 4,
+    "certificationBody": "Building Materials Certification Board",
+    "certifierName": "Francis Musonda",
+    "certificationDate": "2024-09-15T00:00:00",
+    "certificationType": "Materials Quality Assurance",
+    "status": "Valid",
+    "expiryDate": "2026-09-15T00:00:00",
+    "complianceScore": 92,
+    "remarks": "All timber materials meet quality standards. Treatment certification verified."
+  },
+  {
+    "id": 4,
+    "certificateNumber": "TPC-SUB-004-2024",
+    "projectId": 1,
+    "certificationBody": "Energy Efficiency Commission",
+    "certifierName": "Susan Nyirenda",
+    "certificationDate": "2024-12-10T00:00:00",
+    "certificationType": "LED Lighting Standards",
+    "status": "Valid",
+    "expiryDate": "2027-12-10T00:00:00",
+    "complianceScore": 87,
+    "remarks": "LED fixtures meet energy efficiency requirements for street lighting applications."
+  }
+]

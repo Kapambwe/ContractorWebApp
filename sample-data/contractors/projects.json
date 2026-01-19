@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Urban Road Rehabilitation Project",
+    "type": "Infrastructure",
+    "ward": "Central Ward",
+    "constituency": "Lusaka Central",
+    "startDate": "2024-10-01T00:00:00",
+    "endDate": "2025-10-01T00:00:00",
+    "contractValue": 2500000,
+    "actualValue": 1250000,
+    "status": "Ongoing"
+  },
+  {
+    "id": 2,
+    "name": "Community Water Supply System",
+    "type": "Infrastructure",
+    "ward": "Northside Ward",
+    "constituency": "Kabwata",
+    "startDate": "2024-08-15T00:00:00",
+    "endDate": "2025-08-15T00:00:00",
+    "contractValue": 1800000,
+    "actualValue": 900000,
+    "status": "Ongoing"
+  },
+  {
+    "id": 3,
+    "name": "School Building Construction",
+    "type": "Construction",
+    "ward": "Education Ward",
+    "constituency": "Matero",
+    "startDate": "2024-09-05T00:00:00",
+    "endDate": "2026-03-05T00:00:00",
+    "contractValue": 3200000,
+    "actualValue": 800000,
+    "status": "Ongoing"
+  },
+  {
+    "id": 4,
+    "name": "Market Stalls Construction",
+    "type": "Construction",
+    "ward": "Market Ward",
+    "constituency": "Kanyama",
+    "startDate": "2024-01-10T00:00:00",
+    "endDate": "2024-12-31T00:00:00",
+    "contractValue": 950000,
+    "actualValue": 950000,
+    "status": "Completed"
+  }
+]
